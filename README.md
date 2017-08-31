@@ -5,7 +5,7 @@ Repositório para a matéria de SI-400
 
 <a href="https://github.com/renanantunescosta/RGR">Repositório no Git</a>
 
-<h2>Integrantes:</h2>
+Integrantes:
   - Giovana Lodde Girardi || RA 155553 || GIT: giovanag
   - Renan Antunes da Costa || RA 157134 || GIT: renanantunescosta
   - Ricardo Kiochi Goya || RA 157163 || GIT: RicardoUnicamp
