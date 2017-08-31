@@ -16,5 +16,7 @@ Integrantes:
 <h2>Requisitos</h2>
 
 <h2>Informações Necessárias (classes no sistema)</h2>
-  - Funcionario: código, nome, função, departamento e salário
+  - Funcionario: código, nome, função, departamento e salário</p>
   - Fornecedor: código, nomeFisico, nomeJuridico 
+  
+  
